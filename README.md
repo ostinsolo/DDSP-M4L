@@ -28,12 +28,14 @@ This Max for Live device connects [DDSP](https://github.com/magenta/ddsp)'s timb
    ```
    This creates a 'M4L-Timbre-Transfer-Folder' in your Google Drive root.
 
-5. Open the [notebook in Google Colab](https://colab.research.google.com/github.com/ostinsolo/DDSP-M4L/blob/main/m4l_timbre_transfer.ipynb).
+5. Open the [notebook in Google Colab](https://colab.research.google.com/github/ostinsolo/DDSP-M4L/blob/main/m4l_timbre_transfer.ipynb).
 
 6. In Colab:
    - Set runtime to GPU: Runtime > Change runtime type > GPU
    - Run all cells
    - The last cell starts a loop looking for files to process
+
+## Dependencies
 
 * [PyDrive](https://pythonhosted.org/PyDrive/) - for Google Drive access
 * [PythonOsc](https://github.com/attwad/python-osc) - for patch -> python script communication
