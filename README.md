@@ -37,7 +37,7 @@ $ sudo pip install --upgrade pip```)
 
 ## Other notes
 
-This is script kiddie timbre transfer - ["Have fun! And please feel free to hack this notebook to make your own creative interactions.“ - Magenta ](https://colab.research.google.com/github/magenta/ddsp/blob/master/ddsp/colab/demos/timbre_transfer.ipynb)
+This is script kiddie timbre transfer - ["Have fun! And please feel free to hack this notebook to make your own creative interactions.“ - Magenta ](https://github.com/ostinsolo/DDSP-M4L/blob/main/m4l_timbre_transfer.ipynb)
 
 Be sure not to share your Google Drive API key.. They've been added to the gitignore.
 
