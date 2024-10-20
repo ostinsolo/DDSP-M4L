@@ -1,0 +1,8 @@
+#!/Users/ostinsolo/Documents/Max 8/Max for Live Devices/M4L-DDSP-Timbre-Transfer-master/m4lddsp/bin/python3.9
+# -*- coding: UTF-8 -*-
+from __future__ import print_function, division, absolute_import
+
+from numba.misc.numba_entry import main
+
+if __name__ == "__main__":
+    main()
