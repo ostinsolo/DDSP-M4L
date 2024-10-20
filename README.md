@@ -46,8 +46,8 @@ This Max for Live device connects [DDSP](https://github.com/magenta/ddsp)'s timb
 3. The Colab notebook processes the files.
 4. Processed audio is sent back to the M4L device.
 
-[Video demonstration](https://vimeo.com/429263185)
-(https://player.vimeo.com/video/429263185)
+[Video demonstration](https://player.vimeo.com/video/429263185)
+
 
 ## Notes
 
