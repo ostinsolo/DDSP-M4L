@@ -2,7 +2,6 @@
 
 This Max for Live device connects [DDSP](https://github.com/magenta/ddsp)'s timbre transfer capabilities with Ableton Live, using Google Drive's API for file sharing and Google Colab for processing.
 
-![](m4l-interface.png)
 
 ## Features
 
